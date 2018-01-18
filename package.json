@@ -1,0 +1,26 @@
+{
+  "name": "merlinfilmanager",
+  "version": "1.0.0",
+  "description": "File manager for content edtior",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.2.0",
+    "react-bootstrap-treeview": "^0.1.0",
+    "react-dom": "^16.2.0",
+    "react-sortable-tree": "^1.7.0",
+    "react-sortable-tree-theme-file-explorer": "^1.1.2",
+    "react-ui-tree": "^3.1.0",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.0"
+  },
+  "devDependencies": {}
+}
