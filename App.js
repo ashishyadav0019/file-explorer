@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 
 const App = (props)=>{
 	 if(!props.treeData){
@@ -11,4 +11,4 @@ const App = (props)=>{
       	</div>
 		)
 }
-export default App;
+export default App;*/

@@ -1,0 +1,29 @@
+{  
+   "treeData":[  
+      {  
+         "title":"src1/",
+         "children":[  
+            {  
+               "title":"index.js"
+            },
+            {  
+               "title":"chapterOne.js"
+            }
+         ]
+      },
+      {  
+         "title":"src2/",
+         "children":[  
+            {  
+               "title":"index.js"
+            },
+            {  
+               "title":"chapterOne.js"
+            }
+         ]
+      },
+      {  
+         "title":"main.js"
+      }
+   ]
+}
